@@ -1,0 +1,76 @@
+-- Table: pg_destinazioni
+
+-- DROP TABLE pg_destinazioni;
+
+CREATE TABLE pg_destinazioni
+(
+  id integer NOT NULL DEFAULT nextval('pg_destinazioni_id_seq1'::regclass),
+  gid_20131202 integer,
+  gid_bak double precision,
+  g01_studio character varying(254),
+  g02_indagi character varying(254),
+  comparto double precision,
+  cod_uni_p double precision,
+  au character varying(254),
+  scen_1 character varying(254),
+  scen1a character varying(254),
+  scen2a character varying(254),
+  scen2b character varying(254),
+  scen2c character varying(254),
+  scen2d character varying(254),
+  scen2d_x character varying(254),
+  scen2e character varying(254),
+  cod_st character varying(254),
+  ambtrasf double precision,
+  ambito_2 character varying(254),
+  lettera character varying(254),
+  stato character varying(254),
+  pa_tipo character varying(254),
+  pian_esec character varying(254),
+  tipologia character varying(254),
+  pubb_priv character varying(254),
+  ambser character varying(254),
+  cod_serv_r double precision,
+  cod_serv double precision,
+  s_desc character varying(254),
+  ser_nome character varying(254),
+  v_strada double precision,
+  v_idro double precision,
+  v_pozzo double precision,
+  v_cimi double precision,
+  ico double precision,
+  parco character varying(254),
+  ptcp character varying(254),
+  mc_effetti double precision,
+  mc_prg double precision,
+  mc_residui double precision,
+  vani_disp double precision,
+  vani_disp1 double precision,
+  vani_disp2 double precision,
+  iprg double precision,
+  ireal double precision,
+  idiff double precision,
+  prg_res double precision,
+  idiff10 double precision,
+  sncp double precision,
+  notes character varying(254),
+  "Layer" character varying(254),
+  sub_area_c double precision,
+  agg character varying(254),
+  cod_serm character varying(255),
+  v_cscs integer,
+  the_geom geometry,
+  gid_20131218 integer NOT NULL DEFAULT nextval('pg_destinazioni_gid_seq2'::regclass),
+  gid integer NOT NULL DEFAULT nextval('pg_destinazioni_gid_seq3'::regclass),
+  CONSTRAINT gid_destinazioni PRIMARY KEY (gid),
+  CONSTRAINT enforce_dims_the_geom CHECK (ndims(the_geom) = 2),
+  CONSTRAINT enforce_geotype_the_geom CHECK (geometrytype(the_geom) = 'POLYGON'::text OR the_geom IS NULL),
+  CONSTRAINT enforce_srid_the_geom CHECK (srid(the_geom) = (-1))
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE pg_destinazioni
+  OWNER TO pjh;
+COMMENT ON TABLE pg_destinazioni
+  IS 'questa è la tabella che funziona e con ultimo aggiornamento';
