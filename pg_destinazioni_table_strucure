@@ -62,6 +62,7 @@ CREATE TABLE pg_destinazioni
   the_geom geometry,
   gid_20131218 integer NOT NULL DEFAULT nextval('pg_destinazioni_gid_seq2'::regclass),
   gid integer NOT NULL DEFAULT nextval('pg_destinazioni_gid_seq3'::regclass),
+  ambito_protetto smallint DEFAULT 0,
   CONSTRAINT gid_destinazioni PRIMARY KEY (gid),
   CONSTRAINT enforce_dims_the_geom CHECK (ndims(the_geom) = 2),
   CONSTRAINT enforce_geotype_the_geom CHECK (geometrytype(the_geom) = 'POLYGON'::text OR the_geom IS NULL),
@@ -73,4 +74,5 @@ WITH (
 ALTER TABLE pg_destinazioni
   OWNER TO pjh;
 COMMENT ON TABLE pg_destinazioni
-  IS 'questa è la tabella che funziona e con ultimo aggiornamento';
+  IS '- questa tabella funziona e con ultimo aggiornamento
+- gid (verificato - count(gid)>1 = 0 - 2013-03-28)';
