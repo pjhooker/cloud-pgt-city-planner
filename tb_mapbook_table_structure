@@ -1,0 +1,64 @@
+-- Table: tb_mapbook
+
+-- DROP TABLE tb_mapbook;
+
+CREATE TABLE tb_mapbook
+(
+  cod_lav character varying(254),
+  gruppo character varying(254),
+  tipo character varying(50),
+  sigla character varying(10),
+  l1 character varying(8),
+  l2 character varying(8),
+  l3 character varying(8),
+  l4 character varying(8),
+  l5 character varying(8),
+  l6 character varying(8),
+  l7 character varying(8),
+  l8 character varying(8),
+  l9 character varying(8),
+  codicedoc character varying(50),
+  riffile character varying(50),
+  preview character varying(254),
+  modulo1 character varying(254),
+  modulo2 character varying(254),
+  titolomast character varying(254),
+  titoloma_1 character varying(254),
+  titoloma_2 character varying(254),
+  titolosub1 character varying(254),
+  titolosub2 character varying(254),
+  titolosub3 character varying(254),
+  titolosub4 character varying(254),
+  titolosub5 character varying(254),
+  data_agg character varying(50),
+  data_rev character varying(50),
+  tecnico1 character varying(254),
+  tecnico2 character varying(254),
+  tecnico3 character varying(254),
+  tecnico4 character varying(254),
+  scala character varying(50),
+  rotate double precision,
+  stato integer,
+  projname1 character varying(254),
+  projname2 character varying(254),
+  projname3 character varying(254),
+  desc1 character varying(254),
+  desc2 character varying(254),
+  desc3 character varying(254),
+  desc4 character varying(254),
+  avanzament integer,
+  eliminato smallint DEFAULT 0,
+  id serial NOT NULL,
+  smart_note text,
+  nick_doc text,
+  a text,
+  data_crea timestamp without time zone,
+  data_aggiorna timestamp without time zone,
+  wp_id integer,
+  CONSTRAINT tb_mapbook_key_id PRIMARY KEY (id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE tb_mapbook
+  OWNER TO pjh;
