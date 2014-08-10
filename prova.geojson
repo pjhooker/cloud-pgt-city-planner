@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<Placemark>
+<name><![CDATA[Alleveq]]></name>
+<description><![CDATA[MAC: 64:d1:a3:0a:ee:1f<br>Channel: 13<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:15:46 +0200<br>LastSeen: 2014-08-09 21:16:11 +0200]]></description>
+<Point>
+<coordinates>8.939579939469695,45.6240905681625,277.79998779296875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[SEC_LinkShare_423832]]></name>
+<description><![CDATA[MAC: e4:7c:f9:dc:f3:ae<br>Channel: 1<br>MaxRssi: -89<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:15:46 +0200<br>LastSeen: 2014-08-09 21:16:08 +0200]]></description>
+<Point>
+<coordinates>8.93964909017086,45.624019405804574,278.29998779296875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[CasaRavello11]]></name>
+<description><![CDATA[MAC: bc:f6:85:5a:b0:fd<br>Channel: 6<br>MaxRssi: -90<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:15:46 +0200<br>LastSeen: 2014-08-09 21:15:53 +0200]]></description>
+<Point>
+<coordinates>8.939878670498729,45.62377247493714,283.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[D-Link]]></name>
+<description><![CDATA[MAC: 28:10:7b:41:2f:6f<br>Channel: 6<br>MaxRssi: -89<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:15:46 +0200<br>LastSeen: 2014-08-09 21:15:46 +0200]]></description>
+<Point>
+<coordinates>8.940033316612244,45.62386446632445,281.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[NETGEAR73]]></name>
+<description><![CDATA[MAC: 28:c6:8e:82:88:0c<br>Channel: 13<br>MaxRssi: -85<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:15:49 +0200<br>LastSeen: 2014-08-09 21:15:53 +0200]]></description>
+<Point>
+<coordinates>8.939878670498729,45.62377247493714,283.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Alice-65119673]]></name>
+<description><![CDATA[MAC: 38:22:9d:36:15:34<br>Channel: 6<br>MaxRssi: -90<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:15 +0200<br>LastSeen: 2014-08-09 21:16:19 +0200]]></description>
+<Point>
+<coordinates>8.939451277256012,45.62422258313745,279.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-24503372]]></name>
+<description><![CDATA[MAC: 00:24:89:8f:c3:14<br>Channel: 11<br>MaxRssi: -91<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:15 +0200<br>LastSeen: 2014-08-09 21:17:04 +0200]]></description>
+<Point>
+<coordinates>8.939451277256012,45.62422258313745,279.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Alice-82010792]]></name>
+<description><![CDATA[MAC: 00:1d:6a:d9:43:a8<br>Channel: 6<br>MaxRssi: -90<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:19 +0200<br>LastSeen: 2014-08-09 21:16:52 +0200]]></description>
+<Point>
+<coordinates>8.93982301466167,45.624726922251284,281.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[TNCAP9D46E2]]></name>
+<description><![CDATA[MAC: a4:b1:e9:9d:46:e2<br>Channel: 6<br>MaxRssi: -89<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:30 +0200<br>LastSeen: 2014-08-09 21:16:41 +0200]]></description>
+<Point>
+<coordinates>8.939312556758523,45.62452177517116,280.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[InfostradaWiFi-65BC94]]></name>
+<description><![CDATA[MAC: 08:76:ff:65:bc:94<br>Channel: 1<br>MaxRssi: -90<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:30 +0200<br>LastSeen: 2014-08-09 21:16:56 +0200]]></description>
+<Point>
+<coordinates>8.939312556758523,45.62452177517116,280.0999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[TeleTu_38229DBCD6A6]]></name>
+<description><![CDATA[MAC: 38:22:9d:bc:d6:a6<br>Channel: 1<br>MaxRssi: -90<br>Security: WPA<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:37 +0200<br>LastSeen: 2014-08-09 21:17:11 +0200]]></description>
+<Point>
+<coordinates>8.93993248231709,45.624764850363135,281.9000244140625</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[TeleTu_008c54fed5e1]]></name>
+<description><![CDATA[MAC: 00:8c:54:fe:d5:e1<br>Channel: 6<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:37 +0200<br>LastSeen: 2014-08-09 21:17:00 +0200]]></description>
+<Point>
+<coordinates>8.94003365188837,45.62481002882123,282.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[FASTWEB-1-mokEdr8n1kR9_alesalva]]></name>
+<description><![CDATA[MAC: e0:91:53:6e:51:56<br>Channel: 8<br>MaxRssi: -90<br>Security: WPA<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:41 +0200<br>LastSeen: 2014-08-09 21:16:52 +0200]]></description>
+<Point>
+<coordinates>8.93982301466167,45.624726922251284,281.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-24581308]]></name>
+<description><![CDATA[MAC: 00:24:89:8c:63:f4<br>Channel: 1<br>MaxRssi: -84<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:41 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.940276391804218,45.6249315245077,282.5999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-20620858]]></name>
+<description><![CDATA[MAC: 90:35:6e:0d:26:e4<br>Channel: 6<br>MaxRssi: -89<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:48 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.940337998792529,45.6249936344102,282.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Telecom-74477769]]></name>
+<description><![CDATA[MAC: dc:0b:1a:66:51:cf<br>Channel: 1<br>MaxRssi: -89<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:48 +0200<br>LastSeen: 2014-08-09 21:16:52 +0200]]></description>
+<Point>
+<coordinates>8.93982301466167,45.624726922251284,281.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[TNCAP896825]]></name>
+<description><![CDATA[MAC: 9c:97:26:89:68:25<br>Channel: 11<br>MaxRssi: -91<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:48 +0200<br>LastSeen: 2014-08-09 21:17:11 +0200]]></description>
+<Point>
+<coordinates>8.93982301466167,45.624726922251284,281.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Alice-18218513]]></name>
+<description><![CDATA[MAC: 00:25:53:10:ab:4c<br>Channel: 11<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:52 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.940337998792529,45.6249936344102,282.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[TeleTu_008c54e8a4c1]]></name>
+<description><![CDATA[MAC: 00:8c:54:e8:a4:c1<br>Channel: 1<br>MaxRssi: -86<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:52 +0200<br>LastSeen: 2014-08-09 21:17:11 +0200]]></description>
+<Point>
+<coordinates>8.93993248231709,45.624764850363135,281.9000244140625</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-21626846]]></name>
+<description><![CDATA[MAC: 00:24:89:ad:2f:ee<br>Channel: 1<br>MaxRssi: -86<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:52 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.93993248231709,45.624764850363135,281.9000244140625</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Wireless-WPA]]></name>
+<description><![CDATA[MAC: 00:26:44:97:36:b1<br>Channel: 13<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:52 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.93993248231709,45.624764850363135,281.9000244140625</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-22183736]]></name>
+<description><![CDATA[MAC: 00:24:89:cc:2b:02<br>Channel: 1<br>MaxRssi: -84<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:56 +0200<br>LastSeen: 2014-08-09 21:17:00 +0200]]></description>
+<Point>
+<coordinates>8.94003365188837,45.62481002882123,282.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-28436145]]></name>
+<description><![CDATA[MAC: 90:35:6e:09:4a:ce<br>Channel: 6<br>MaxRssi: -89<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:16:56 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.94003365188837,45.62481002882123,282.0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[InfostradaWiFi-406688]]></name>
+<description><![CDATA[MAC: 00:66:4b:b4:5b:c0<br>Channel: 1<br>MaxRssi: -84<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:00 +0200<br>LastSeen: 2014-08-09 21:17:15 +0200]]></description>
+<Point>
+<coordinates>8.940337998792529,45.6249936344102,282.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[FASTWEB-1-002196243444]]></name>
+<description><![CDATA[MAC: 00:21:96:24:34:4c<br>Channel: 11<br>MaxRssi: -90<br>Security: WPA<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:04 +0200<br>LastSeen: 2014-08-09 21:17:08 +0200]]></description>
+<Point>
+<coordinates>8.940233392640948,45.62489229720086,282.29998779296875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Telecom-48084937]]></name>
+<description><![CDATA[MAC: 30:39:f2:dd:b7:cf<br>Channel: 11<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:04 +0200<br>LastSeen: 2014-08-09 21:17:23 +0200]]></description>
+<Point>
+<coordinates>8.940233392640948,45.62489229720086,282.29998779296875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Wireless Casa]]></name>
+<description><![CDATA[MAC: 00:22:75:f5:25:c2<br>Channel: 6<br>MaxRssi: -88<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:08 +0200<br>LastSeen: 2014-08-09 21:17:37 +0200]]></description>
+<Point>
+<coordinates>8.940276391804218,45.6249315245077,282.5999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[apple]]></name>
+<description><![CDATA[MAC: 00:11:24:95:28:1d<br>Channel: 1<br>MaxRssi: -91<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:08 +0200<br>LastSeen: 2014-08-09 21:17:23 +0200]]></description>
+<Point>
+<coordinates>8.940276391804218,45.6249315245077,282.5999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-26053051]]></name>
+<description><![CDATA[MAC: 00:24:89:cc:6f:a4<br>Channel: 6<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:08 +0200<br>LastSeen: 2014-08-09 21:17:38 +0200]]></description>
+<Point>
+<coordinates>8.940276391804218,45.6249315245077,282.5999755859375</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[InfostradaWiFi-f76980]]></name>
+<description><![CDATA[MAC: 84:c9:b2:f7:69:81<br>Channel: 1<br>MaxRssi: -83<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:15 +0200<br>LastSeen: 2014-08-09 21:17:19 +0200]]></description>
+<Point>
+<coordinates>8.94038108177483,45.625049164518714,282.70001220703125</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[NETGEAR85]]></name>
+<description><![CDATA[MAC: 00:8e:f2:78:04:8a<br>Channel: 6<br>MaxRssi: -88<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:48 +0200<br>LastSeen: 2014-08-09 21:18:14 +0200]]></description>
+<Point>
+<coordinates>8.940066006034613,45.62608604785055,283.29998779296875</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[stampante]]></name>
+<description><![CDATA[MAC: 00:15:e9:f5:59:be<br>Channel: 1<br>MaxRssi: -85<br>Security: WPA<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:17:48 +0200<br>LastSeen: 2014-08-09 21:18:33 +0200]]></description>
+<Point>
+<coordinates>8.939963662996888,45.626007970422506,286.5</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<name><![CDATA[Vodafone-24677158]]></name>
+<description><![CDATA[MAC: 00:24:89:e9:8e:90<br>Channel: 1<br>MaxRssi: -92<br>Security: WPA2<br>Type: Infrastructure<br>FirstSeen: 2014-08-09 21:18:03 +0200<br>LastSeen: 2014-08-09 21:18:18 +020
