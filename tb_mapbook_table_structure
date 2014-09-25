@@ -1,5 +1,6 @@
 -- Table: tb_mapbook
 
+
 -- DROP TABLE tb_mapbook;
 
 CREATE TABLE tb_mapbook
