@@ -1,0 +1,1177 @@
+
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2014-07-25T12:45:02Z",
+  "features": [
+
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "COLLINA MEDITERRANEA EXPO 2015 (sito espositivo)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/collina-mediterranea-expo-2015/",
+        "excerpt" : "Sito espositivo COLLINA MEDITERRANEA EXPO 2015 Un punto suggestivo da cui godere della vista panoramica su tutto il Sito Espositivo. Qui si trovano le più tipiche vegetazioni e colture dell’ecosistema mediterraneo e gli spazi dell’associazione Slow Food.",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1122307,
+              45.5181195
+            ]
+,
+            [
+              9.1108318,
+              45.5160125
+            ]
+,
+            [
+              9.1121962,
+              45.5160413
+            ]
+,
+            [
+              9.1122307,
+              45.5181195
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "PARCO DELLA BIODIVERSITÀ EXPO 2015 (aree tematiche)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/parco-biodiversita-expo-2015/",
+        "excerpt" : "Aree Tematiche PARCO DELLA BIODIVERSITÀ EXPO 2015 Il Parco della Biodiversità è un progetto con la Facoltà di Scienze Agrarie e Alimentari di Milano. Un percorso in un grande giardino sulla straordinaria ricchezza di biodiversità presente sul nostro Pianeta.",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1112268,
+              45.5193263
+            ]
+,
+            [
+              9.1093071,
+              45.5203125
+            ]
+,
+            [
+              9.1089098,
+              45.5199235
+            ]
+,
+            [
+              9.1114931,
+              45.5186857
+            ]
+,
+            [
+              9.1122743,
+              45.5194259
+            ]
+,
+            [
+              9.1116419,
+              45.5197651
+            ]
+,
+            [
+              9.1112268,
+              45.5193263
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "OPEN AIR THEATER EXPO 2015 (sito espositivo)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/open-air-theater-expo-2015/",
+        "excerpt" : "Sito Espositivo OPEN AIR THEATER EXPO 2015 Un grande teatro all’aperto in cui si svolgono concerti, spettacoli teatrali e cerimonie ufficiali. La copertura che si trova sopra il palco è dotata di pannelli solari che produrranno energia per gli eventi.",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1054491,
+              45.5172949
+            ]
+,
+            [
+              9.1050368,
+              45.5166529
+            ]
+,
+            [
+              9.1065537,
+              45.5161283
+            ]
+,
+            [
+              9.1069755,
+              45.5167793
+            ]
+,
+            [
+              9.1054491,
+              45.5172949
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "LAKE ARENA EXPO 2015 (sito espositivo)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/lake-arena-expo-2015/",
+        "excerpt" : "Sito Espositivo LAKE ARENA EXPO 2015 Il più grande spazio aperto per i visitatori: un bacino d’acqua circondato da gradinate e una piazza capace di accogliere 20.000 persone e circa 100 alberi. Un luogo destinato a spettacoli e concerti.",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1059037,
+              45.5204047
+            ]
+,
+            [
+              9.1067899,
+              45.5201107
+            ]
+,
+            [
+              9.1076623,
+              45.5198253
+            ]
+,
+            [
+              9.1084569,
+              45.5209791
+            ]
+,
+            [
+              9.1077506,
+              45.5212115
+            ]
+,
+            [
+              9.1075896,
+              45.5209732
+            ]
+,
+            [
+              9.1072562,
+              45.5210685
+            ]
+,
+            [
+              9.1074352,
+              45.521313
+            ]
+,
+            [
+              9.1069862,
+              45.5214687
+            ]
+,
+            [
+              9.1069265,
+              45.5214037
+            ]
+,
+            [
+              9.1067156,
+              45.5214625
+            ]
+,
+            [
+              9.1065455,
+              45.5211733
+            ]
+,
+            [
+              9.1064425,
+              45.5211973
+            ]
+,
+            [
+              9.1059037,
+              45.5204047
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "CHILDREN PARK EXPO 2015 (aree tematiche)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/children-park-expo-2015/",
+        "excerpt" : "CHILDREN PARK EXPO 2015 Curato da Sabina Cantarelli e sviluppato dal team di Reggio Children &#8211; Centro Internazionale per la difesa e la promozione dei diritti e delle potenzialità dei bambini e delle bambine, il Children Park è un’area di gioco e scoperta dedicata ai bambini. Il progetto prevede un percorso di esperienze, attività e [&hellip;]",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1005328,
+              45.521856
+            ]
+,
+            [
+              9.10054,
+              45.5216609
+            ]
+,
+            [
+              9.1021837,
+              45.5224454
+            ]
+,
+            [
+              9.1022183,
+              45.5224327
+            ]
+,
+            [
+              9.1022682,
+              45.5213542
+            ]
+,
+            [
+              9.1025439,
+              45.5213539
+            ]
+,
+            [
+              9.1024241,
+              45.5225757
+            ]
+,
+            [
+              9.1021588,
+              45.5226718
+            ]
+,
+            [
+              9.1005328,
+              45.521856
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "PADIGLIONE ZERO EXPO 2015 (sito espositivo)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/padiglione-zero-expo-2015/",
+        "excerpt" : "Aree Tematiche PADIGLIONE ZERO EXPO 2015 Curato da Davide Rampello e progettato da Michele De Lucchi, il Padiglione Zero introduce la visita del Sito Espositivo di Expo e racconta la storia dell’uomo sulla Terra attraverso il suo rapporto con la natura e il cibo.",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.0931661,
+              45.5212665
+            ]
+,
+            [
+              9.0928083,
+              45.5207724
+            ]
+,
+            [
+              9.0946931,
+              45.5201107
+            ]
+,
+            [
+              9.0950447,
+              45.5206354
+            ]
+,
+            [
+              9.0931661,
+              45.5212665
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "EXPO CENTER EXPO 2015 (sito espositivo)",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/expo-center-expo-2015/",
+        "excerpt" : "Sito Espositivo EXPO CENTER EXPO 2015 Un grande spazio per eventi al coperto in cui si trovano un auditorium, una piazza e un’area meeting. Qui si potrà partecipare a workshop e conferenze, ma anche a spettacoli ed eventi di musica, teatro e danza.",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.0930664,
+              45.5234414
+            ]
+,
+            [
+              9.0921761,
+              45.5221035
+            ]
+,
+            [
+              9.0927763,
+              45.521897
+            ]
+,
+            [
+              9.0936739,
+              45.5232284
+            ]
+,
+            [
+              9.0930664,
+              45.5234414
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "Milano Portello",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/milano-portello/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1482103,
+              45.4857899
+            ]
+,
+            [
+              9.1474271,
+              45.4867636
+            ]
+,
+            [
+              9.1464185,
+              45.4860808
+            ]
+,
+            [
+              9.1464668,
+              45.4860343
+            ]
+,
+            [
+              9.1464507,
+              45.4859629
+            ]
+,
+            [
+              9.1466868,
+              45.485889
+            ]
+,
+            [
+              9.1463542,
+              45.4851706
+            ]
+,
+            [
+              9.1470301,
+              45.4847908
+            ]
+,
+            [
+              9.1481298,
+              45.4854138
+            ]
+,
+            [
+              9.1482103,
+              45.4857899
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "Edificio Giallo",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/edificio-giallo/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1309952,
+              45.4863723
+            ]
+,
+            [
+              9.1311311,
+              45.4863446
+            ]
+,
+            [
+              9.1310602,
+              45.4861742
+            ]
+,
+            [
+              9.1309243,
+              45.486202
+            ]
+,
+            [
+              9.1309952,
+              45.4863723
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "Edificio001 &#8211; OSM",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/edificio001-osm/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.1304688,
+              45.4865072
+            ]
+,
+            [
+              9.1306013,
+              45.4864757
+            ]
+,
+            [
+              9.1305142,
+              45.4862955
+            ]
+,
+            [
+              9.1303817,
+              45.4863269
+            ]
+,
+            [
+              9.1304688,
+              45.4865072
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 San Siro Ippodromo",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-san-siro-ippodromo/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1226316,
+              45.4760873
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Portello",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-portello/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1506749,
+              45.4813634
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Monumentale",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-monumentale/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1805344,
+              45.485173
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "Alfa Romeo ARESE &#8211; parcheggi",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/alfa-romeo-arese-parcheggi/",
+        "excerpt" : "Attualmente deposito elementi (travi cemento armato)",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.0553752,
+              45.5625044
+            ]
+,
+            [
+              9.0555185,
+              45.5619663
+            ]
+,
+            [
+              9.0511675,
+              45.5614737
+            ]
+,
+            [
+              9.0510372,
+              45.5620119
+            ]
+,
+            [
+              9.0553752,
+              45.5625044
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "Alfa Romeo ARESE &#8211; ex Tracciato di prova",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/alfa-romeo-arese-ex-tracciato-prova/",
+        "excerpt" : "Area da definire",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.04466,
+              45.5693756
+            ]
+,
+            [
+              9.0445742,
+              45.5624353
+            ]
+,
+            [
+              9.0463981,
+              45.562255
+            ]
+,
+            [
+              9.0465054,
+              45.5631714
+            ]
+,
+            [
+              9.0451321,
+              45.5693155
+            ]
+,
+            [
+              9.04466,
+              45.5693756
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "Alfa Romeo ARESE &#8211; Edificio 01",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/area-ex-cicuito/",
+        "excerpt" : "Area attualmente in costruzione",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+
+            [
+              9.0574287,
+              45.5646673
+            ]
+,
+            [
+              9.0578484,
+              45.5629211
+            ]
+,
+            [
+              9.0492493,
+              45.5619079
+            ]
+,
+            [
+              9.0488295,
+              45.5636542
+            ]
+,
+            [
+              9.0574287,
+              45.5646673
+            ]
+
+          ]
+        ]
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 San Siro Stadio",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-san-siro-stadio/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1210944,
+              45.4761078
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Segesta",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-segesta/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1374109,
+              45.4762874
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Lotto",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-lotto/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1436709,
+              45.4797744
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Tre Torri",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-torri/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.156671,
+              45.4781634
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Domodossola",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-domodossola/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.162267,
+              45.4816184
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Gerusalemme",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-gerusalemme/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1669352,
+              45.4846367
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Cenisio",
+        "colore" : "#0ff",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-cenisio/",
+        "excerpt" : "",
+        "stato" : "in_costruzione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1724029,
+              45.4875876
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Garibaldi",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-garibaldi/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1867424,
+              45.4836397
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Isola",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-isola/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1912634,
+              45.4876083
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Zara",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-zara/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1926011,
+              45.4926644
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Marche",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-marche/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.1948236,
+              45.4961456
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Istria",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-istria/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.19792,
+              45.5016262
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Ca&#8217; Granda",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-ca-granda/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.2011103,
+              45.5072425
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Bicocca",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-bicocca/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.2053699,
+              45.5147339
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Bignami",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-bignami/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.2121805,
+              45.5267842
+            ]
+
+      }
+    }
+,
+ {
+      "type": "Feature",
+      "id": "way/4012175",
+      "properties": {
+        "id": "way/149300150",
+        "leisure": "garden",
+        "NAME": "M5 Ponale",
+        "colore" : "#ff0",
+        "plink" : "http://www.cityplanner.it/natural_tree/m5-ponale/",
+        "excerpt" : "",
+        "stato" : "libero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": 
+
+            [
+              9.2094736,
+              45.5219945
+            ]
+
+      }
+    }
+
+  ]
+}

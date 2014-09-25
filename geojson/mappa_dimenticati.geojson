@@ -1,0 +1,34 @@
+{ "features" : [  { "geometry" : { "coordinates" : [9.25525188446045,
+            45.538930225579605 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh4.googleusercontent.com/YpWVQjwN5G0UJvftGwVJbbzBrdpxFEsGYi-Nyz7vaic=w1205-h803-no","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/acciaierie-ferriere-lombarde-falck/","NAME":"Acciaierie e Ferriere Lombarde Falck","titolo":"Acciaierie e Ferriere Lombarde Falck","url_post":"http://www.cityplanner.it/natural_tree/acciaierie-ferriere-lombarde-falck/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/museum_industry_blue1.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.932188749095076,
+            45.59764576296374 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/ex-sanatorio-regina-elena/","NAME":"Ex Sanatorio Regina Elena","titolo":"Ex Sanatorio Regina Elena","url_post":"http://www.cityplanner.it/natural_tree/ex-sanatorio-regina-elena/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/museum_industry_blue1.png"
+          },
+        "type" : "Feature"
+      },
+
+  { "geometry" : { "coordinates" : [ -1.4948717600000001,
+                53.68926664
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff",
+            "ImageURL" : "/360Scheduling/Content/Images/ByBox.png"
+          },
+        "type" : "Feature"
+      }
+    ],
+  "type" : "FeatureCollection"
+}

@@ -1,0 +1,125 @@
+{
+"type": "FeatureCollection",
+"features": [{ "type": "Feature", "properties": { "id":1,"name":"Olivastro Santa Maria Navarrese", "Color":"#FF0000","nome_geometria":"Olivastro Santa Maria Navarrese","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.688917,39.988586]}
+},{ "type": "Feature", "properties": { "id":2,"name":"Sterculia platanifolia Castello di Brolio", "Color":"#FF4800","nome_geometria":"Sterculia platanifolia Castello di Brolio","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.463547,43.413387]}
+},{ "type": "Feature", "properties": { "id":3,"name":"cedro del Libano a Badia a Coltibuono", "Color":"#FEFF00","nome_geometria":"cedro del Libano a Badia a Coltibuono","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.449513,43.49535]}
+},{ "type": "Feature", "properties": { "id":4,"name":"Alberi monumentali, l'olivastro di Santo Baltolu di Carana (OT)", "Color":"#48FF00","nome_geometria":"Alberi monumentali, l'olivastro di Santo Baltolu di Carana (OT)","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.255112,41.00668]}
+},{ "type": "Feature", "properties": { "id":5,"name":"il cipresso del Santuario di Nostra Signora di Reggio, Vernazza (SP)", "Color":"#0098FF","nome_geometria":"il cipresso del Santuario di Nostra Signora di Reggio, Vernazza (SP)","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.687581,44.142986]}
+},{ "type": "Feature", "properties": { "id":6,"name":"Foresta primaria di Montes", "Color":"#0019FF","nome_geometria":"Foresta primaria di Montes","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.396588,40.122223]}
+},{ "type": "Feature", "properties": { "id":7,"name":"Cipresso di Galatrona, Mercatale - Bucine (AR)", "Color":"#0019FF","nome_geometria":"Cipresso di Galatrona, Mercatale - Bucine (AR)","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.569542,43.472569]}
+},{ "type": "Feature", "properties": { "id":8,"name":"Alberi monumentali, il 'Crognolo' gigante di Montieri (GR)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, il 'Crognolo' gigante di Montieri (GR)","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.041571,43.166866]}
+},{ "type": "Feature", "properties": { "id":9,"name":"Alberi monumentali, il Cedro del Libano dell'Orto Botanico di Lucca", "Color":"#0019FF","nome_geometria":"Alberi monumentali, il Cedro del Libano dell'Orto Botanico di Lucca","empty":""},  
+"geometry": {"type":"Point","coordinates":[10.510821,43.841457]}
+},{ "type": "Feature", "properties": { "id":10,"name":"Alberi monumentali, il leccio di Poggio Amaro a Bucine (AR)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, il leccio di Poggio Amaro a Bucine (AR)","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.622232,43.472408]}
+},{ "type": "Feature", "properties": { "id":11,"name":"Ficus macrophylla di Piazza Marina, Palermo ", "Color":"#0019FF","nome_geometria":"Ficus macrophylla di Piazza Marina, Palermo ","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.369589,38.117516]}
+},{ "type": "Feature", "properties": { "id":12,"name":"Olivo della Strega a Magliano in Toscana (Gr)", "Color":"#0019FF","nome_geometria":"Olivo della Strega a Magliano in Toscana (Gr)","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.290791,42.596008]}
+},{ "type": "Feature", "properties": { "id":13,"name":"Leccio dei Cappuccini a Montevarchi (AR)", "Color":"#0019FF","nome_geometria":"Leccio dei Cappuccini a Montevarchi (AR)","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.557601,43.519878]}
+},{ "type": "Feature", "properties": { "id":14,"name":"Cipresso di San Francesco a Villa Verucchio (RN)", "Color":"#0019FF","nome_geometria":"Cipresso di San Francesco a Villa Verucchio (RN)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.433503,43.998661]}
+},{ "type": "Feature", "properties": { "id":15,"name":"Cerro presso Altamura (BA)", "Color":"#0019FF","nome_geometria":"Cerro presso Altamura (BA)","empty":""},  
+"geometry": {"type":"Point","coordinates":[16.57802,40.882938]}
+},{ "type": "Feature", "properties": { "id":16,"name":"Ficus macrophylla", "Color":"#0019FF","nome_geometria":"Ficus macrophylla","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.351961,38.109386]}
+},{ "type": "Feature", "properties": { "id":17,"name":"Ficus macrophylla", "Color":"#0019FF","nome_geometria":"Ficus macrophylla","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.352804,38.109047]}
+},{ "type": "Feature", "properties": { "id":18,"name":"Nonna Quercia", "Color":"#0019FF","nome_geometria":"Nonna Quercia","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.97248,45.085697]}
+},{ "type": "Feature", "properties": { "id":19,"name":"Il cedro del Libano di Villa Paolucci-Merlini, Forlimpopoli", "Color":"#0019FF","nome_geometria":"Il cedro del Libano di Villa Paolucci-Merlini, Forlimpopoli","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.101043,44.169724]}
+},{ "type": "Feature", "properties": { "id":20,"name":"il bagolaro di località Castellaci, Zagarise (CZ)", "Color":"#0019FF","nome_geometria":"il bagolaro di località Castellaci, Zagarise (CZ)","empty":""},  
+"geometry": {"type":"Point","coordinates":[16.713139,38.949299]}
+},{ "type": "Feature", "properties": { "id":21,"name":"Quercia vallonea di Tricase (LE)", "Color":"#0019FF","nome_geometria":"Quercia vallonea di Tricase (LE)","empty":""},  
+"geometry": {"type":"Point","coordinates":[18.37921,39.927734]}
+},{ "type": "Feature", "properties": { "id":22,"name":"Alberi monumentali, i larici millenari di Santa Gertrude a Ultimo (BZ)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, i larici millenari di Santa Gertrude a Ultimo (BZ)","empty":""},  
+"geometry": {"type":"Point","coordinates":[10.870199,46.48848]}
+},{ "type": "Feature", "properties": { "id":23,"name":"Alberi monumentali, i platani di Tagliata, Racconigi (TO)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, i platani di Tagliata, Racconigi (TO)","empty":""},  
+"geometry": {"type":"Point","coordinates":[7.71539,44.744019]}
+},{ "type": "Feature", "properties": { "id":24,"name":"Alberi monumentali, il pioppo di Glorenza, (BZ)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, il pioppo di Glorenza, (BZ)","empty":""},  
+"geometry": {"type":"Point","coordinates":[10.553076,46.67004]}
+},{ "type": "Feature", "properties": { "id":25,"name":"Alberi monumentali, il Ginkgo biloba di Villa Paolucci-Merlini, Forlimpopoli", "Color":"#0019FF","nome_geometria":"Alberi monumentali, il Ginkgo biloba di Villa Paolucci-Merlini, Forlimpopoli","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.101145,44.170074]}
+},{ "type": "Feature", "properties": { "id":26,"name":"Pioppi bianchi de L'Aquila", "Color":"#0019FF","nome_geometria":"Pioppi bianchi de L'Aquila","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.35717,42.358654]}
+},{ "type": "Feature", "properties": { "id":27,"name":"olmo campestre di Villanova sull'Arda (PC)", "Color":"#0019FF","nome_geometria":"olmo campestre di Villanova sull'Arda (PC)","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.998476,45.028278]}
+},{ "type": "Feature", "properties": { "id":28,"name":"Alberi monumentali, la Sofora del Giappone di Savorgnano del Torre (UD)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, la Sofora del Giappone di Savorgnano del Torre (UD)","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.279338,46.16478]}
+},{ "type": "Feature", "properties": { "id":29,"name":"la farnia di Guarda di Sotto a Fiume Veneto (PN)", "Color":"#0019FF","nome_geometria":"la farnia di Guarda di Sotto a Fiume Veneto (PN)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.684794,45.925873]}
+},{ "type": "Feature", "properties": { "id":30,"name":"Alberi monumentali, 'la Palme', l'abete bianco di Paularo (UD)", "Color":"#0019FF","nome_geometria":"Alberi monumentali, 'la Palme', l'abete bianco di Paularo (UD)","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.128142,46.558456]}
+},{ "type": "Feature", "properties": { "id":31,"name":"Cipresso di Orta San Giulio (NO)", "Color":"#0019FF","nome_geometria":"Cipresso di Orta San Giulio (NO)","empty":""},  
+"geometry": {"type":"Point","coordinates":[8.404734,45.800213]}
+},{ "type": "Feature", "properties": { "id":32,"name":"Tasso di Cavandone", "Color":"#0019FF","nome_geometria":"Tasso di Cavandone","empty":""},  
+"geometry": {"type":"Point","coordinates":[8.516416,45.944729]}
+},{ "type": "Feature", "properties": { "id":33,"name":"'la magnolia della Contessa' a Polcenigo (PN)", "Color":"#0019FF","nome_geometria":"'la magnolia della Contessa' a Polcenigo (PN)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.499196,46.030205]}
+},{ "type": "Feature", "properties": { "id":34,"name":"Ficus macrophylla del giardino Bellini a Catania", "Color":"#0019FF","nome_geometria":"Ficus macrophylla del giardino Bellini a Catania","empty":""},  
+"geometry": {"type":"Point","coordinates":[15.082649,37.512608]}
+},{ "type": "Feature", "properties": { "id":35,"name":"Il pino di Monserrato, Isola d'Elba (LI)", "Color":"#0019FF","nome_geometria":"Il pino di Monserrato, Isola d'Elba (LI)","empty":""},  
+"geometry": {"type":"Point","coordinates":[10.398053,42.779575]}
+},{ "type": "Feature", "properties": { "id":36,"name":"l Ginkgo biloba di Baveno (VB)", "Color":"#0019FF","nome_geometria":"l Ginkgo biloba di Baveno (VB)","empty":""},  
+"geometry": {"type":"Point","coordinates":[8.503274,45.910976]}
+},{ "type": "Feature", "properties": { "id":37,"name":"il castagno secolare nei pressi di Adrano (CT)", "Color":"#0019FF","nome_geometria":"il castagno secolare nei pressi di Adrano (CT)","empty":""},  
+"geometry": {"type":"Point","coordinates":[14.918725,37.683125]}
+},{ "type": "Feature", "properties": { "id":38,"name":"Il castagno di Carpignano Sesia (NO)", "Color":"#0019FF","nome_geometria":"Il castagno di Carpignano Sesia (NO)","empty":""},  
+"geometry": {"type":"Point","coordinates":[8.447714,45.53437]}
+},{ "type": "Feature", "properties": { "id":39,"name":"Il cedro dell'Himalaya di Vallerano (VT)", "Color":"#0019FF","nome_geometria":"Il cedro dell'Himalaya di Vallerano (VT)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.26431,42.384159]}
+},{ "type": "Feature", "properties": { "id":40,"name":"Il castagno di Canepina (VT)", "Color":"#0019FF","nome_geometria":"Il castagno di Canepina (VT)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.211652,42.383183]}
+},{ "type": "Feature", "properties": { "id":41,"name":"La Quercia delle Streghe a Capannori (LU)", "Color":"#0019FF","nome_geometria":"La Quercia delle Streghe a Capannori (LU)","empty":""},  
+"geometry": {"type":"Point","coordinates":[10.652981,43.867371]}
+},{ "type": "Feature", "properties": { "id":42,"name":"la farnia di Attimis (UD)", "Color":"#0019FF","nome_geometria":"la farnia di Attimis (UD)","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.29954,46.194939]}
+},{ "type": "Feature", "properties": { "id":43,"name":"Abete bianco di Vesenda (SO)", "Color":"#0019FF","nome_geometria":"Abete bianco di Vesenda (SO)","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.612242,46.06004]}
+},{ "type": "Feature", "properties": { "id":44,"name":"Aliva 'Mpittata", "Color":"#0019FF","nome_geometria":"Aliva 'Mpittata","empty":""},  
+"geometry": {"type":"Point","coordinates":[15.010189,37.5368]}
+},{ "type": "Feature", "properties": { "id":45,"name":"roverella di Passo di Treia (MC)", "Color":"#0019FF","nome_geometria":"roverella di Passo di Treia (MC)","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.338089,43.289288]}
+},{ "type": "Feature", "properties": { "id":46,"name":"Il bagolaro di Villa Caroli Zanchi a Stezzano (BG)", "Color":"#0019FF","nome_geometria":"Il bagolaro di Villa Caroli Zanchi a Stezzano (BG)","empty":""},  
+"geometry": {"type":"Point","coordinates":[9.649617,45.64851]}
+},{ "type": "Feature", "properties": { "id":47,"name":"Platano dei 100 bersaglieri", "Color":"#0019FF","nome_geometria":"Platano dei 100 bersaglieri","empty":""},  
+"geometry": {"type":"Point","coordinates":[10.816281,45.608192]}
+},{ "type": "Feature", "properties": { "id":48,"name":"La farnia di Villanova Sant'Antonio a Fossalta di Portogruaro (VE)", "Color":"#0019FF","nome_geometria":"La farnia di Villanova Sant'Antonio a Fossalta di Portogruaro (VE)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.909003,45.774426]}
+},{ "type": "Feature", "properties": { "id":49,"name":"'La Grande Quercia', la farnia del Parco del Sile (TV)", "Color":"#0019FF","nome_geometria":"'La Grande Quercia', la farnia del Parco del Sile (TV)","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.028669,45.64706]}
+},{ "type": "Feature", "properties": { "id":50,"name":"Canforo di Capodimonte", "Color":"#0019FF","nome_geometria":"Canforo di Capodimonte","empty":""},  
+"geometry": {"type":"Point","coordinates":[14.252492,40.868843]}
+},{ "type": "Feature", "properties": { "id":51,"name":"Magnolia di Capodimonte", "Color":"#0019FF","nome_geometria":"Magnolia di Capodimonte","empty":""},  
+"geometry": {"type":"Point","coordinates":[14.25339,40.869129]}
+},{ "type": "Feature", "properties": { "id":52,"name":"Il Castagno dei Cento Cavalli", "Color":"#0019FF","nome_geometria":"Il Castagno dei Cento Cavalli","empty":""},  
+"geometry": {"type":"Point","coordinates":[15.130381,37.750187]}
+},{ "type": "Feature", "properties": { "id":53,"name":"L’olivo di Santa Aquilina a Rimini", "Color":"#0019FF","nome_geometria":"L’olivo di Santa Aquilina a Rimini","empty":""},  
+"geometry": {"type":"Point","coordinates":[12.54592,44.017994]}
+},{ "type": "Feature", "properties": { "id":54,"name":"il Castagno Sant'Agata (o della nave) a Mascali (CT)", "Color":"#0019FF","nome_geometria":"il Castagno Sant'Agata (o della nave) a Mascali (CT)","empty":""},  
+"geometry": {"type":"Point","coordinates":[15.13121,37.754429]}
+},{ "type": "Feature", "properties": { "id":55,"name":"Il libocedro del Brollo", "Color":"#0019FF","nome_geometria":"Il libocedro del Brollo","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.421833,43.639477]}
+},{ "type": "Feature", "properties": { "id":56,"name":"I faggi di Canfaito, San Severino Marche (MC)", "Color":"#0019FF","nome_geometria":"I faggi di Canfaito, San Severino Marche (MC)","empty":""},  
+"geometry": {"type":"Point","coordinates":[13.082228,43.302444]}
+},{ "type": "Feature", "properties": { "id":57,"name":"Il castagno di Monteombraro (MO)", "Color":"#0019FF","nome_geometria":"Il castagno di Monteombraro (MO)","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.011511,44.379444]}
+},{ "type": "Feature", "properties": { "id":58,"name":"Il platano di Piazza Cavour a Torino", "Color":"#0019FF","nome_geometria":"Il platano di Piazza Cavour a Torino","empty":""},  
+"geometry": {"type":"Point","coordinates":[7.689727,45.063396]}
+},{ "type": "Feature", "properties": { "id":59,"name":"I platani di Castellanza (VA)", "Color":"#0019FF","nome_geometria":"I platani di Castellanza (VA)","empty":""},  
+"geometry": {"type":"Point","coordinates":[8.909794,45.608425]}
+},{ "type": "Feature", "properties": { "id":60,"name":"Roverella Maestosa", "Color":"#0019FF","nome_geometria":"Roverella Maestosa","empty":""},  
+"geometry": {"type":"Point","coordinates":[11.096148,44.469856]}
+}
+]
+}

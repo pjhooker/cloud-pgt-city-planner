@@ -1,0 +1,49 @@
+
+  {
+    "type": "FeatureCollection",
+    "generator": "overpass-turbo",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2014-07-25T12:45:02Z",
+    "features": [
+  
+   {
+        "type": "Feature",
+        "id": "way/4012175",
+        "properties": {
+          "id": "way/149300150",
+          "leisure": "garden",
+          "NAME": "Piazza Carlo Irnerio"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+  
+              [
+                9.1122307,
+                45.5181195
+              ]
+  ,
+              [
+                9.1108318,
+                45.5160125
+              ]
+  ,
+              [
+                9.1121962,
+                45.5160413
+              ]
+  ,
+              [
+                9.1122307,
+                45.5181195
+              ]
+  
+            ]
+          ]
+        }
+      }
+  
+    ]
+  }
+  

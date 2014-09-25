@@ -1,0 +1,1113 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+ { "geometry" : { "coordinates" : [34.86678800000004,
+            44.983463 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://scontent-b.cdninstagram.com/hphotos-xfa1/t51.2885-15/915608_481910831945118_649752089_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"morontt","URL":"http://www.cityplanner.it/natural_tree/lalbero-stivale/","NAME":"L&#8217;albero a stivale Crimea, Topolevka","titolo":"L&#8217;albero a stivale Crimea, Topolevka","url_post":"http://www.cityplanner.it/natural_tree/lalbero-stivale/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [4.913921438622992,
+            52.36389366302354 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-a.ak.instagram.com/hphotos-ak-xfa1/10617002_352947344868344_649841735_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/scoperta/","NAME":"Alla scoperta di &#8230;","titolo":"Alla scoperta di &#8230;","url_post":"http://www.cityplanner.it/natural_tree/scoperta/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.968155700000011,
+            45.7835372 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-d.ak.instagram.com/hphotos-ak-xaf1/10607938_1466839216909619_557072386_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/cosi-si-fa/","NAME":"Così si fa!","titolo":"Così si fa!","url_post":"http://www.cityplanner.it/natural_tree/cosi-si-fa/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.836026815938567,
+            45.66253861826428 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-e.ak.instagram.com/hphotos-ak-xfa1/10665530_321654671329100_715458816_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/naturaltree-geophoto-geotag-mapping/","NAME":"#naturaltree #geophoto #geotag #mapping","titolo":"#naturaltree #geophoto #geotag #mapping","url_post":"http://www.cityplanner.it/natural_tree/naturaltree-geophoto-geotag-mapping/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.76594799999998,
+            45.668463 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-c.ak.instagram.com/hphotos-ak-xfa1/10643780_1530399633858858_666653898_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/naturaltree-geotag-45-66845208-765965-mapping/","NAME":"#naturaltree #geotag 45.6684520,8.765965 #mapping","titolo":"#naturaltree #geotag 45.6684520,8.765965 #mapping","url_post":"http://www.cityplanner.it/natural_tree/naturaltree-geotag-45-66845208-765965-mapping/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.816196600000012,
+            45.64443139999999 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-h.ak.instagram.com/hphotos-ak-xfa1/10632359_700300916704663_1609048593_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"smallimages","URL":"http://www.cityplanner.it/natural_tree/bigger-than-big-naturaltree/","NAME":"Bigger than big #naturaltree","titolo":"Bigger than big #naturaltree","url_post":"http://www.cityplanner.it/natural_tree/bigger-than-big-naturaltree/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924589,
+            45.583829 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/pioppo-bianco-tremulo/","NAME":"Pioppo bianco tremulo","titolo":"Pioppo bianco tremulo","url_post":"http://www.cityplanner.it/natural_tree/pioppo-bianco-tremulo/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924937,
+            45.584006 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/cedro-himalaya/","NAME":"Cedrus deodara","titolo":"Cedrus deodara","url_post":"http://www.cityplanner.it/natural_tree/cedro-himalaya/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.925209,
+            45.584166 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/5-bagolari/","NAME":"5 bagolari","titolo":"5 bagolari","url_post":"http://www.cityplanner.it/natural_tree/5-bagolari/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924633,
+            45.584474 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/viburno/","NAME":"Viburno","titolo":"Viburno","url_post":"http://www.cityplanner.it/natural_tree/viburno/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924894,
+            45.584649 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-5-3/","NAME":"Punto 5","titolo":"Punto 5","url_post":"http://www.cityplanner.it/natural_tree/punto-5-3/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924982,
+            45.584721 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/taxodium/","NAME":"Taxodium","titolo":"Taxodium","url_post":"http://www.cityplanner.it/natural_tree/taxodium/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924682,
+            45.584624 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-7/","NAME":"Punto 7","titolo":"Punto 7","url_post":"http://www.cityplanner.it/natural_tree/punto-7/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924570,
+            45.584623 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/albero-della-nebbia/","NAME":"Albero della nebbia","titolo":"Albero della nebbia","url_post":"http://www.cityplanner.it/natural_tree/albero-della-nebbia/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.923860,
+            45.584841 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/angolo-dei-biancospini/","NAME":"Angolo dei biancospini","titolo":"Angolo dei biancospini","url_post":"http://www.cityplanner.it/natural_tree/angolo-dei-biancospini/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922959,
+            45.584313 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/farnia-1982/","NAME":"Farnia 1982","titolo":"Farnia 1982","url_post":"http://www.cityplanner.it/natural_tree/farnia-1982/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921728,
+            45.582788 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/pioppo-bianco-2/","NAME":"Pioppo bianco","titolo":"Pioppo bianco","url_post":"http://www.cityplanner.it/natural_tree/pioppo-bianco-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921599,
+            45.582623 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/larice-2/","NAME":"Larice","titolo":"Larice","url_post":"http://www.cityplanner.it/natural_tree/larice-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921605,
+            45.582477 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/faggio-2/","NAME":"Faggio","titolo":"Faggio","url_post":"http://www.cityplanner.it/natural_tree/faggio-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921443,
+            45.585142 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-19-2/","NAME":"Punto 19","titolo":"Punto 19","url_post":"http://www.cityplanner.it/natural_tree/punto-19-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921501,
+            45.585128 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-20-2/","NAME":"Punto 20","titolo":"Punto 20","url_post":"http://www.cityplanner.it/natural_tree/punto-20-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921950,
+            45.584188 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/biancospino-2/","NAME":"Biancospino","titolo":"Biancospino","url_post":"http://www.cityplanner.it/natural_tree/biancospino-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922218,
+            45.583927 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/pioppo-nero-2/","NAME":"Pioppo nero","titolo":"Pioppo nero","url_post":"http://www.cityplanner.it/natural_tree/pioppo-nero-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922683,
+            45.582981 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/noce-2/","NAME":"Noce","titolo":"Noce","url_post":"http://www.cityplanner.it/natural_tree/noce-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922944,
+            45.583258 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/frassino-2/","NAME":"Frassino","titolo":"Frassino","url_post":"http://www.cityplanner.it/natural_tree/frassino-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922788,
+            45.583404 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/frassino-oxifilla-2/","NAME":"Frassino oxifilla","titolo":"Frassino oxifilla","url_post":"http://www.cityplanner.it/natural_tree/frassino-oxifilla-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922589,
+            45.583478 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/cedro-hiimalaya-gruppo-2/","NAME":"Cedro hiimalaya gruppo","titolo":"Cedro hiimalaya gruppo","url_post":"http://www.cityplanner.it/natural_tree/cedro-hiimalaya-gruppo-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922589,
+            45.583478 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/679-bagolaro-2/","NAME":"679 bagolaro","titolo":"679 bagolaro","url_post":"http://www.cityplanner.it/natural_tree/679-bagolaro-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922589,
+            45.583478 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/giglio-dacqua-2/","NAME":"Giglio d&#8217;acqua","titolo":"Giglio d&#8217;acqua","url_post":"http://www.cityplanner.it/natural_tree/giglio-dacqua-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922997,
+            45.583938 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/gelso-bianco-filare-2/","NAME":"Gelso bianco filare","titolo":"Gelso bianco filare","url_post":"http://www.cityplanner.it/natural_tree/gelso-bianco-filare-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.923194,
+            45.583922 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/nespolo-2/","NAME":"Nespolo","titolo":"Nespolo","url_post":"http://www.cityplanner.it/natural_tree/nespolo-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.923878,
+            45.583824 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/salice-generici-2/","NAME":"Salice generici","titolo":"Salice generici","url_post":"http://www.cityplanner.it/natural_tree/salice-generici-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.923964,
+            45.583819 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/alloro-2/","NAME":"Alloro","titolo":"Alloro","url_post":"http://www.cityplanner.it/natural_tree/alloro-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.924670,
+            45.583610 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/tasso-3/","NAME":"Tasso","titolo":"Tasso","url_post":"http://www.cityplanner.it/natural_tree/tasso-3/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.925049,
+            45.583568 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/tasso2-2/","NAME":"Tasso2","titolo":"Tasso2","url_post":"http://www.cityplanner.it/natural_tree/tasso2-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921578,
+            45.585535 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/1058-pinus-valechiana-2/","NAME":"1058 pinus valechiana","titolo":"1058 pinus valechiana","url_post":"http://www.cityplanner.it/natural_tree/1058-pinus-valechiana-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920973,
+            45.585547 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/1090-cedro-dellatlante-glauca-2/","NAME":"1090 Cedro dell&#8217;atlante glauca","titolo":"1090 Cedro dell&#8217;atlante glauca","url_post":"http://www.cityplanner.it/natural_tree/1090-cedro-dellatlante-glauca-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920814,
+            45.585523 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/foto-2/","NAME":"Foto","titolo":"Foto","url_post":"http://www.cityplanner.it/natural_tree/foto-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920871,
+            45.585622 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/non-glauca-gruppo-2/","NAME":"Non glauca gruppo","titolo":"Non glauca gruppo","url_post":"http://www.cityplanner.it/natural_tree/non-glauca-gruppo-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920914,
+            45.585530 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-5-2/","NAME":"Punto 5","titolo":"Punto 5","url_post":"http://www.cityplanner.it/natural_tree/punto-5-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920915,
+            45.585493 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/1092-betulla-alba-2/","NAME":"1092 Betulla Alba","titolo":"1092 Betulla Alba","url_post":"http://www.cityplanner.it/natural_tree/1092-betulla-alba-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920915,
+            45.585493 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/1101-abete-rosso-2/","NAME":"1101 Abete Rosso","titolo":"1101 Abete Rosso","url_post":"http://www.cityplanner.it/natural_tree/1101-abete-rosso-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920609,
+            45.585287 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/1133-pinbmo-strobo-2/","NAME":"1133 Pinbmo strobo","titolo":"1133 Pinbmo strobo","url_post":"http://www.cityplanner.it/natural_tree/1133-pinbmo-strobo-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920609,
+            45.585287 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-9-2/","NAME":"Punto 9","titolo":"Punto 9","url_post":"http://www.cityplanner.it/natural_tree/punto-9-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920231,
+            45.585216 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/nocciolo-2/","NAME":"Nocciolo","titolo":"Nocciolo","url_post":"http://www.cityplanner.it/natural_tree/nocciolo-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920231,
+            45.585216 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/punto-11-2/","NAME":"Punto 11","titolo":"Punto 11","url_post":"http://www.cityplanner.it/natural_tree/punto-11-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920170,
+            45.585118 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/1146-castagno-2/","NAME":"Castagno (1146)","titolo":"Castagno (1146)","url_post":"http://www.cityplanner.it/natural_tree/1146-castagno-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.920339,
+            45.585022 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/pigna-pino-strobo-2/","NAME":"Pigna pino strobo","titolo":"Pigna pino strobo","url_post":"http://www.cityplanner.it/natural_tree/pigna-pino-strobo-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921069,
+            45.584583 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/830-platano-in-filare-2/","NAME":"Platano in filare (830)","titolo":"Platano in filare (830)","url_post":"http://www.cityplanner.it/natural_tree/830-platano-in-filare-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921142,
+            45.584697 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/941-carpino-bianco-2/","NAME":"941 Carpino bianco","titolo":"941 Carpino bianco","url_post":"http://www.cityplanner.it/natural_tree/941-carpino-bianco-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921789,
+            45.584910 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/573-cedro-dellhimalaya-2/","NAME":"573 Cedro dell&#8217;Himalaya","titolo":"573 Cedro dell&#8217;Himalaya","url_post":"http://www.cityplanner.it/natural_tree/573-cedro-dellhimalaya-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921827,
+            45.584976 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/abete-douglas-2/","NAME":"Abete douglas","titolo":"Abete douglas","url_post":"http://www.cityplanner.it/natural_tree/abete-douglas-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.921499,
+            45.585178 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/539-ginko-2/","NAME":"539 Ginko","titolo":"539 Ginko","url_post":"http://www.cityplanner.it/natural_tree/539-ginko-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.698101294967614,
+            45.778486703311955 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh3.googleusercontent.com/-OM0Ydkykj0E/U_DzlcSmaKI/AAAAAAAA8j8/B47rpyiNphk/w607-h809-no/Punto_7_1408288891961.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/identificato-2/","NAME":"Identificato 2","titolo":"Identificato 2","url_post":"http://www.cityplanner.it/natural_tree/identificato-2/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.698002288360613,
+            45.778373205197255 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh6.googleusercontent.com/-fABTLmc4KsQ/U_Dx9WmTeRI/AAAAAAAA8iM/lqZiZ6cGIA4/w607-h809-no/Punto_6_1408288816858.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/identificato/","NAME":"Identificato","titolo":"Identificato","url_post":"http://www.cityplanner.it/natural_tree/identificato/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.64800557491435,
+            45.79915663418748 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh5.googleusercontent.com/-WlJOLjHS_VU/U_DwNVIEmlI/AAAAAAAA8iQ/RsEkl4s9U2c/w607-h809-no/Punto_4_1408282638262.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/pedalo/","NAME":"Pedalò","titolo":"Pedalò","url_post":"http://www.cityplanner.it/natural_tree/pedalo/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.69416810317989,
+            45.78027139798284 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh4.googleusercontent.com/-yBjLnvVkaqo/U_DwYmn-irI/AAAAAAAA8iQ/CI9aKB5txco/w607-h809-no/Punto_4_1408287684598.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/pioppo-parco-berrini/","NAME":"Uno dei tre &#8211; Parco Berrini, Ternate, Verese","titolo":"Uno dei tre &#8211; Parco Berrini, Ternate, Verese","url_post":"http://www.cityplanner.it/natural_tree/pioppo-parco-berrini/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.75199945819702,
+            45.78947592458161 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh4.googleusercontent.com/-7kKtCgVI0yc/U-84zEpcLgI/AAAAAAAA8aM/Xz6ZnpMOz4s/w1037-h778-no/IMG_20140810_182046.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/filare-storico/","NAME":"Filare storico","titolo":"Filare storico","url_post":"http://www.cityplanner.it/natural_tree/filare-storico/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.201479181592731,
+            45.47493212206682 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh5.googleusercontent.com/-KbzDQWY_Kyk/U-84zA5H1lI/AAAAAAAA8aM/X2SslgcCGFQ/w1556-h778-no/PANO_20140815_154447.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/albero-enorme-salvato/","NAME":"Albero enorme salvato (GLOBE 360)","titolo":"Albero enorme salvato (GLOBE 360)","url_post":"http://www.cityplanner.it/natural_tree/albero-enorme-salvato/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.198968633995719,
+            45.47517284104981 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh4.googleusercontent.com/-jv1ViR6yP6c/U-84zKTOoMI/AAAAAAAA8aM/IQVGNteBtq4/w874-h778-no/PANO_20140815_152500-EFFECTS.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/lago-dei-giardini/","NAME":"Al lago dei Giardini","titolo":"Al lago dei Giardini","url_post":"http://www.cityplanner.it/natural_tree/lago-dei-giardini/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.747746646349697,
+            45.60082333914609 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh5.googleusercontent.com/uPsdGr_sKhW1LCffTZRbCKrPIhHIuMLppntCC_M3_mP0=w1037-h778-no","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/salice-caduti/","NAME":"Salice ai caduti","titolo":"Salice ai caduti","url_post":"http://www.cityplanner.it/natural_tree/salice-caduti/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.179616177770981,
+            45.51048304716681 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://plus.google.com/u/0/photos/102729242208058701686/albums/5932860979062827233/6048115277290437522?pid=6048115277290437522&oid=102729242208058701686","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/ruota-bicicletta/","NAME":"La ruota della bicicletta","titolo":"La ruota della bicicletta","url_post":"http://www.cityplanner.it/natural_tree/ruota-bicicletta/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.179814661238083,
+            45.51071956443254 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh3.googleusercontent.com/-sb-pe0PLZ40/U-84zD6LjRI/AAAAAAAA8aM/s7zGqgpzEYw/w584-h778-no/IMG_20140815_121405.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/pista/","NAME":"Sulla pista","titolo":"Sulla pista","url_post":"http://www.cityplanner.it/natural_tree/pista/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.18922330555722,
+            45.49068148450668 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh3.googleusercontent.com/-QBXYVWX_Jow/U-84zFe_YiI/AAAAAAAA8aM/rdSXaWyTsig/w1037-h778-no/punto_2_1408113854403.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/ritagli-verdi/","NAME":"Ritagli verdi","titolo":"Ritagli verdi","url_post":"http://www.cityplanner.it/natural_tree/ritagli-verdi/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.224989110450679,
+            45.49590674059502 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh6.googleusercontent.com/--7m-fFPK_wk/U-84zMMoBgI/AAAAAAAA8aM/Q1xbmaaexyI/w584-h778-no/punto_3_1408104604321.jpg","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/urban-tour/","NAME":"Urban tour","titolo":"Urban tour","url_post":"http://www.cityplanner.it/natural_tree/urban-tour/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.224887186508113,
+            45.49615438166552 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh5.googleusercontent.com/-Oee1JHI3WVw/U-84zLrZJ2I/AAAAAAAA8aM/9ZKl4OdjXQY/w584-h778-no/punto_4_1408104618662.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/cedro/","NAME":"Cedro","titolo":"Cedro","url_post":"http://www.cityplanner.it/natural_tree/cedro/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.222961422228991,
+            45.49449692716834 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh4.googleusercontent.com/-hTJlTKgRae8/U-84zLIsBcI/AAAAAAAA8aM/mFhkdygzTjg/w584-h778-no/punto_5_1408105076232.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/ginko-biloba/","NAME":"Ginkgo biloba","titolo":"Ginkgo biloba","url_post":"http://www.cityplanner.it/natural_tree/ginko-biloba/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.222708292065363,
+            45.49302527585991 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh5.googleusercontent.com/-JvZQvBCYl74/U-84zPDdPxI/AAAAAAAA8aM/sDVrl7OPxyQ/w1037-h778-no/punto_6_1408105343526.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/lalbero-delle-scimmie/","NAME":"L&#8217;albero delle scimmie","titolo":"L&#8217;albero delle scimmie","url_post":"http://www.cityplanner.it/natural_tree/lalbero-delle-scimmie/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.21303003649291,
+            45.47904990487956 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh5.googleusercontent.com/-VAQ_uEa2-lM/U-84zNIJJCI/AAAAAAAA8aM/uTFH5BfOb5k/w584-h778-no/punto_8_1408106680331.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/milano-tour/","NAME":"Milano tour","titolo":"Milano tour","url_post":"http://www.cityplanner.it/natural_tree/milano-tour/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.610211382525677,
+            45.815876447303594 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm4.staticflickr.com/3853/14693097889_399cf12224_b.jpg","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/magnolia-enorme/","NAME":"Magnolia enorme","titolo":"Magnolia enorme","url_post":"http://www.cityplanner.it/natural_tree/magnolia-enorme/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.607305511818595,
+            45.813200339515035 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm4.staticflickr.com/3868/14877248974_f8de7eb74f_b.jpg","ADRESS1":"","ADRESS2":"none","TEL":"Tlx!","URL":"http://www.cityplanner.it/natural_tree/nodo-porto/","NAME":"Un nodo del porto","titolo":"Un nodo del porto","url_post":"http://www.cityplanner.it/natural_tree/nodo-porto/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.572485799999981,
+            45.5226031 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh6.googleusercontent.com/-_rH3-DBh3dg/U9X_I3OIGHI/AAAAAAAA7j4/2cCLYahB3GI/w607-h809-no/27_lug_2014%2B15_11_22.jpeg","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/strada/","NAME":"Lungo la strada","titolo":"Lungo la strada","url_post":"http://www.cityplanner.it/natural_tree/strada/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.80256518718852,
+            45.693382876786764 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh3.googleusercontent.com/-04tCWRCoCMQ/U-dLeoP62nI/AAAAAAAA764/4TzM50ot_uY/w607-h809-no/IMG_20140809_194430.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/bel-modo-per-occupare-non-spazio/","NAME":"Un bel modo per occupare un non-spazio","titolo":"Un bel modo per occupare un non-spazio","url_post":"http://www.cityplanner.it/natural_tree/bel-modo-per-occupare-non-spazio/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.597983781753555,
+            45.87704946942041 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm4.staticflickr.com/3891/14880372415_b84d952435_b.jpg","ADRESS1":"","ADRESS2":"none","TEL":"Tlx!","URL":"http://www.cityplanner.it/natural_tree/sasso-s-caterina/","NAME":"Sasso di S.Caterina","titolo":"Sasso di S.Caterina","url_post":"http://www.cityplanner.it/natural_tree/sasso-s-caterina/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.79547952149585,
+            45.68573891185615 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/tutti-allinizio-erano-piccoli/","NAME":"Tutti all&#8217;inizio erano piccoli","titolo":"Tutti all&#8217;inizio erano piccoli","url_post":"http://www.cityplanner.it/natural_tree/tutti-allinizio-erano-piccoli/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.189058292204322,
+            45.444149076860434 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Tlx!","URL":"http://www.cityplanner.it/natural_tree/milano-ripamonti/","NAME":"Milano, Ripamonti","titolo":"Milano, Ripamonti","url_post":"http://www.cityplanner.it/natural_tree/milano-ripamonti/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.926720805557238,
+            45.582203344657955 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://scontent-b-ams.cdninstagram.com/hphotos-xpa1/t51.2885-15/10453903_260874087452481_643628984_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/4-vie-4-canali-1-naturaltree/","NAME":"4 vie, 4 canali, 1 #naturaltree","titolo":"4 vie, 4 canali, 1 #naturaltree","url_post":"http://www.cityplanner.it/natural_tree/4-vie-4-canali-1-naturaltree/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.927084177523739,
+            45.584696971131365 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://photos-d.ak.instagram.com/hphotos-ak-xpa1/10522184_315338895295739_1037754664_n.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/castello/","NAME":"Al castello","titolo":"Al castello","url_post":"http://www.cityplanner.it/natural_tree/castello/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.816038421951362,
+            45.84431860738818 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/se-trovi-pista-giusta/","NAME":"Se la trovi sei sulla pista giusta","titolo":"Se la trovi sei sulla pista giusta","url_post":"http://www.cityplanner.it/natural_tree/se-trovi-pista-giusta/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [-118.17889630000002,
+            37.38560349999999 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"ShaneBarker","URL":"http://www.cityplanner.it/natural_tree/ancient-bristlecone-pines/","NAME":"Ancient Bristlecone Pines","titolo":"Ancient Bristlecone Pines","url_post":"http://www.cityplanner.it/natural_tree/ancient-bristlecone-pines/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.72121919741437,
+            45.680170815823054 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/i-giganti-somma/","NAME":"I tre giganti di Somma","titolo":"I tre giganti di Somma","url_post":"http://www.cityplanner.it/natural_tree/i-giganti-somma/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.82526314781569,
+            45.819443719865944 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/alle-porte-centro-varese/","NAME":"Alle porte del centro di Varese","titolo":"Alle porte del centro di Varese","url_post":"http://www.cityplanner.it/natural_tree/alle-porte-centro-varese/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.815744394612125,
+            45.843045935091936 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/davvero-enorme/","NAME":"Davvero enorme","titolo":"Davvero enorme","url_post":"http://www.cityplanner.it/natural_tree/davvero-enorme/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.813249940228275,
+            45.843640114070254 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/faggio-nascosto/","NAME":"Un faggio nascosto","titolo":"Un faggio nascosto","url_post":"http://www.cityplanner.it/natural_tree/faggio-nascosto/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.166315952948025,
+            45.45777963976877 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/parco-solari/","NAME":"Parco Solari","titolo":"Parco Solari","url_post":"http://www.cityplanner.it/natural_tree/parco-solari/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.165368471936063,
+            45.45773988253369 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Samira Z.","URL":"http://www.cityplanner.it/natural_tree/platani-parco-solari/","NAME":"Platani al Parco Solari","titolo":"Platani al Parco Solari","url_post":"http://www.cityplanner.it/natural_tree/platani-parco-solari/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.196150486724832,
+            45.46000977924949 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Manfredi C.","URL":"http://www.cityplanner.it/natural_tree/giardino-bello-milano/","NAME":"Al Giardino più bello di Milano","titolo":"Al Giardino più bello di Milano","url_post":"http://www.cityplanner.it/natural_tree/giardino-bello-milano/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.94159295641407,
+            45.504764542610516 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/zucche-magnolato/","NAME":"Zucchero magnolato","titolo":"Zucchero magnolato","url_post":"http://www.cityplanner.it/natural_tree/zucche-magnolato/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [14.712668465509068,
+            37.95331864139681 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Roberto Lo Savio","URL":"http://www.cityplanner.it/natural_tree/avamposto-sponda-lago/","NAME":"Avamposto sulla sponda del lago","titolo":"Avamposto sulla sponda del lago","url_post":"http://www.cityplanner.it/natural_tree/avamposto-sponda-lago/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [14.22938929999998,
+            41.1200491 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Fabrizio Reale","URL":"http://www.cityplanner.it/natural_tree/riflessi-dautunno-allagamento/","NAME":"Riflessi d&#8217;autunno con allagamento","titolo":"Riflessi d&#8217;autunno con allagamento","url_post":"http://www.cityplanner.it/natural_tree/riflessi-dautunno-allagamento/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [11.360057600000005,
+            43.36954069999999 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Giovanni Mirgovi","URL":"http://www.cityplanner.it/natural_tree/2001-certosa-pontignano/","NAME":"2001, Certosa di Pontignano","titolo":"2001, Certosa di Pontignano","url_post":"http://www.cityplanner.it/natural_tree/2001-certosa-pontignano/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [10.593890200000033,
+            44.391765 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Mirco Gualtieri","URL":"http://www.cityplanner.it/natural_tree/black-white/","NAME":"Black &#038; white","titolo":"Black &#038; white","url_post":"http://www.cityplanner.it/natural_tree/black-white/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [10.80135949999999,
+            45.1605718 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"http://static.panoramio.com/photos/large/79564560.jpg","ADRESS1":"","ADRESS2":"none","TEL":"Marcello Caponnetto","URL":"http://www.cityplanner.it/natural_tree/nebbia-lago-inferiore/","NAME":"Nebbia sul Lago Inferiore","titolo":"Nebbia sul Lago Inferiore","url_post":"http://www.cityplanner.it/natural_tree/nebbia-lago-inferiore/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.224548099999993,
+            45.5039665 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm3.staticflickr.com/2905/14532221314_ba71588bdb_o.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/ponte-vecchio-martesana-albero-piangente/","NAME":"Ponte vecchio Martesana: albero piangente","titolo":"Ponte vecchio Martesana: albero piangente","url_post":"http://www.cityplanner.it/natural_tree/ponte-vecchio-martesana-albero-piangente/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.989938497543335,
+            45.64652432614405 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/sicuramente-punto-riferimento/","NAME":"Sicuramente un punto di riferimento","titolo":"Sicuramente un punto di riferimento","url_post":"http://www.cityplanner.it/natural_tree/sicuramente-punto-riferimento/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.192570230163597,
+            45.46391700609021 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/allangolo-duomo-milano/","NAME":"All&#8217;angolo del Duomo di Milano","titolo":"All&#8217;angolo del Duomo di Milano","url_post":"http://www.cityplanner.it/natural_tree/allangolo-duomo-milano/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [60.59752223809812,
+            56.889924376400586 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"alekseysokolov555","URL":"http://www.cityplanner.it/natural_tree/noir-tree/","NAME":"Noir tree","titolo":"Noir tree","url_post":"http://www.cityplanner.it/natural_tree/noir-tree/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.922338042388901,
+            45.58327964793459 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://farm8.staticflickr.com/7377/11796865623_4d3de4cb27_o.jpg","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/colori-novembre/","NAME":"Colori a Novembre","titolo":"Colori a Novembre","url_post":"http://www.cityplanner.it/natural_tree/colori-novembre/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.883497000000034,
+            45.651309 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"Iniziativa Ventunozerocinquantotto","URL":"http://www.cityplanner.it/natural_tree/solbiate-olona-via-patrioti-platano-centenario/","NAME":"Solbiate Olona Via Patrioti Platano Centenario","titolo":"Solbiate Olona Via Patrioti Platano Centenario","url_post":"http://www.cityplanner.it/natural_tree/solbiate-olona-via-patrioti-platano-centenario/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.08024720000003,
+            45.55260639999999 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"aresini.it","URL":"http://www.cityplanner.it/natural_tree/miracolo-ad-arese-gli-occhi-degli-alberi/","NAME":"Miracolo ad arese &#8230;. gli occhi degli alberi","titolo":"Miracolo ad arese &#8230;. gli occhi degli alberi","url_post":"http://www.cityplanner.it/natural_tree/miracolo-ad-arese-gli-occhi-degli-alberi/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.112892999999985,
+            45.496917 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"iz2rpn","URL":"http://www.cityplanner.it/natural_tree/milano-bonola/","NAME":"Milano Bonola","titolo":"Milano Bonola","url_post":"http://www.cityplanner.it/natural_tree/milano-bonola/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.43116050160529,
+            46.13815964754997 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"iz2rpn","URL":"http://www.cityplanner.it/natural_tree/piantedo-so/","NAME":"Piantedo (SO)","titolo":"Piantedo (SO)","url_post":"http://www.cityplanner.it/natural_tree/piantedo-so/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.792819724606261,
+            45.66240505054833 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"smallimages","URL":"http://www.cityplanner.it/natural_tree/sempre-in-alto/","NAME":"Sempre più in alto","titolo":"Sempre più in alto","url_post":"http://www.cityplanner.it/natural_tree/sempre-in-alto/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.722465517860428,
+            45.68928695698163 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/blu-bianco/","NAME":"blu e bianco","titolo":"blu e bianco","url_post":"http://www.cityplanner.it/natural_tree/blu-bianco/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.722031000000015,
+            45.689227 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/tasso/","NAME":"Secondo voi è un #Tasso?","titolo":"Secondo voi è un #Tasso?","url_post":"http://www.cityplanner.it/natural_tree/tasso/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.288957900000014,
+            45.1522291 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"vincenzo2342","URL":"http://www.cityplanner.it/natural_tree/albero/","NAME":"Albero","titolo":"Albero","url_post":"http://www.cityplanner.it/natural_tree/albero/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.384068200000002,
+            45.4029586 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"peter25","URL":"http://www.cityplanner.it/natural_tree/passa-tem/","NAME":"DI QUI PASSA LA TEM","titolo":"DI QUI PASSA LA TEM","url_post":"http://www.cityplanner.it/natural_tree/passa-tem/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.909718990325928,
+            45.7143396123935 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/sequoia-tradate/","NAME":"La Sequoia sempervirens di Villa Inzoli a Tradate","titolo":"La Sequoia sempervirens di Villa Inzoli a Tradate","url_post":"http://www.cityplanner.it/natural_tree/sequoia-tradate/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [9.03441309939808,
+            45.69300992064035 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"","ADRESS1":"","ADRESS2":"none","TEL":"pjhooker","URL":"http://www.cityplanner.it/natural_tree/ulivo-colorato/","NAME":"Ulivo colorato","titolo":"Ulivo colorato","url_post":"http://www.cityplanner.it/natural_tree/ulivo-colorato/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+ { "geometry" : { "coordinates" : [8.991679698242478,
+            45.87389797969367 
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff", "picture":"https://lh4.googleusercontent.com/pVvbelNwKbIshrUm5GMj9Tp2mMoI42WINUnHZJCpmhNo=w1108-h831-no","ADRESS1":"","ADRESS2":"none","TEL":"","URL":"http://www.cityplanner.it/natural_tree/up/","NAME":"Albero GELATO","titolo":"Albero GELATO","url_post":"http://www.cityplanner.it/natural_tree/up/",
+            "ImageURL" : "http://www.cityplanner.it/supply/icon_web/set6_mapicon/arbol.png"
+          },
+        "type" : "Feature"
+      },
+
+{ "type": "Feature", "properties": 
+  { "Colour": "#ffffff", "picture": "http:\/\/www.cityplanner.it\/experiment_host\/supply\/photo\/legnano_bw\/vista_00015_jpg.jpeg", 
+  "ADRESS1": null, "ADRESS2": null, "TEL": null, "URL": null, "NAME": "vista_00015_jpg.jpeg", 
+  "titolo": "vista_00015_jpg.jpeg", "url_post": null, "ImageURL": "http:\/\/www.cityplanner.it\/supply\/icon_web\/set6_mapicon\/arbol.png" }, 
+  "geometry": { "type": "Point", "coordinates": [ 8.9149332, 45.5859642 ] } }
+]
+}

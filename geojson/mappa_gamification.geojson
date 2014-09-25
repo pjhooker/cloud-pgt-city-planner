@@ -1,0 +1,14 @@
+{ "features" : [ 
+  { "geometry" : { "coordinates" : [ -1.4948717600000001,
+                53.68926664
+              ],
+            "type" : "Point"
+          },
+        "properties" : { "Colour" : "#ffffff",
+            "ImageURL" : "/360Scheduling/Content/Images/ByBox.png"
+          },
+        "type" : "Feature"
+      }
+    ],
+  "type" : "FeatureCollection"
+}
